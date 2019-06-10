@@ -25,3 +25,7 @@ Hola alumno!<br>
 </html> | Hola alumno!
 **¿Quieres escribir en negrita?**
 *¿Y en cursiva?*|
+
+http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/CursoHTML/Curso01.htm
+
+http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/HTML4.0/intro/intro.html
