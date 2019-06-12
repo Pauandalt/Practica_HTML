@@ -32,3 +32,9 @@ http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/HTML4.0/intro/intro.html
 
 https://tecnunhal.github.io/
 
+https://github.com/nicolasserrano/digital/blob/master/AI.md
+
+https://nicolasserrano.github.io/CS/
+
+https://nicolasserrano.github.io/
+
