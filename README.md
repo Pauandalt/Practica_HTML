@@ -6,11 +6,28 @@ HTML (HyperText Markup Language) es el primer lenguaje que una persona debe cono
 
 Por tanto el HTML, es el lenguaje utilizado por el sevidor para definir las páginas del WORLD WIDE WEB. El ejemplo más claro lo encontramos precisamente en la primera página creada en la WWW: [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html). En está veremos como esta página web está compuesta por un simple fichero HTML que a día de hoy, nuestro navegador sigue siendo capaz de leer. 
 
-Los ficheros HTML son ficheros puramente ASCII, que pueden ser escritos con cualquier editor básico, tal como Notepad en Windows o vi en Unix. En este fichero de texto se introducen unas marcas o caracteres de control llamadas TAGs, que son interpretadas por el navegador. Cuando éste lee un fichero con extensión *.htm o *.html interpreta estas TAGs y formatea el texto de acuerdo con ellas.
+Los ficheros HTML son que pueden ser escritos con cualquier editor básico, tal como Notepad. En este fichero de texto se introducen unas marcas o caracteres de control llamadas TAGs, que son interpretadas por el navegador. Cuando éste lee un fichero con extensión *.htm o *.html interpreta estas TAGs y formatea el texto de acuerdo con ellas.
 
+En conclusión, HTML es el lenguaje que nos sirve para crear páginas sencillas a través de una serie de TAGs que veremos a continuación:
 
+## Notepad
 
-*Índice*
+Para esta práctica usaremos el programa Notepad++ y guardaremos el archivo con la extensión .html.después, clicaremos la opción de run en la barra de herramientas y seleccionaremos el navegador que deseemos, por ejemplo: "Google Chrome".
+
+Si no posee este programa, puede emplear al Notepad  tradicional gurdar el archivo como html y ejecutarlo en el navegador que prefiera.
+
+![alt text](NotePad.PNG)
+
+## TAGs básicos
+Una vez abierto el Notepad, recrearemos la [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html) e iremos viendo paso por paso que indica cada comando del HTML.
+
+Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. Esto significa que existe una gerarquía dentro de los TAGS. Cada tag empieza cuando el usuario escribe <> y termina al poner </>.
+
+### HEAD
+
+Head_HTML.PNG
+
+## Opciones más avanzadas:
 
 <table WIDTH="90%" UNITS="relative">
   <tr>
@@ -214,7 +231,7 @@ iframe {
 }
 </style>
 
-
+*Ejemplo cogido de: https://nicolasserrano.github.io/CS/HTML/
 
 http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/CursoHTML/Curso01.htm
 
