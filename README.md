@@ -28,7 +28,7 @@ El operador Head, da nombre a la pestaña que queremos crear. De esta manera , n
 
 ![Alt text](Head_HTML.PNG)
 
-Copie el texto de la imagen superior, guarde el fichero con la extensión .html y ejecutelo en el navegador. A partir de ahora usaremos Ctrl para guardar el documento y refrescaremos la página (tecla F5) del navegador para ver el resultado. Además puede emplear la tecla de windows en su teclado para establecer el navegador en el lado izquierdo de la pantalla (Windows + flecha izquierda) y notepad al lado derecho ( (Windows + flecha derecha).
+Copie el texto de la imagen superior, guarde el fichero con la extensión .html y ejecutelo en el navegador. A partir de ahora usaremos Ctrl para guardar el documento y refrescaremos la página (tecla F5) del navegador para ver el resultado. Además puede emplear la tecla de windows en su teclado para establecer el navegador en el lado izquierdo de la pantalla (Windows + flecha izquierda) y notepad al lado derecho (Windows + flecha derecha).
 
 ### BODY
 
