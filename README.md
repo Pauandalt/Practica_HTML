@@ -49,8 +49,9 @@ El alumno terminará la página por su cuenta ahora.
 
 ### Tablas
 Para la creación de una página web, es imprescindibel el empleo de tablas como veremos más adelante. Para crear una tabla el alumno copiará el sugiente código:
-
-|![alt text](tabla.PNG)|
+| CODE | TABLE |
+| :------: | :------: |
+|![alt text](tabla.PNG) | 
 <th> <pre>
 <table border=2
   cellspacing=5
