@@ -41,7 +41,15 @@ Por otro lado, el operador *p* se emplea para definir un párrafo. Cuando queram
 
 ![Alt text](Parrafo_HTML.PNG)
 
+Para incluir referencias a links crearemos un tag de la siguient forma:
+
+![Alt text](Links.PNG)
+
+El alumno terminará la página por su cuenta ahora.
+
 ### Opciones más avanzadas:
+
+Para el lenguaje HTML no es necesario aprenderse de memoria cada comanda. Uno siempre puede consultar en internet cómo hacer las cosas que desee. Para ello se deja a modo de ejemplo lo siguiente. El alumno puede probar a copiar y pegar el texto del ejemplo y así ver el resultado en el buscador.
 
 <table WIDTH="90%" UNITS="relative">
   <tr>
