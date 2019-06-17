@@ -25,7 +25,7 @@ Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. E
 
 ### HEAD
 
-Head_HTML.PNG
+![Alt text](Head_HTML.PNG)
 
 ## Opciones más avanzadas:
 
