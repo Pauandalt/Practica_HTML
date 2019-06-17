@@ -24,15 +24,22 @@ Una vez abierto el Notepad, recrearemos la [primera página web](http://info.cer
 Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. Esto significa que existe una gerarquía dentro de los TAGS. Cada tag empieza cuando el usuario escribe <> y termina al poner </>.
 
 ### HEAD
-El operador Head, da nombre a la pestaña que queremos crear. De esta manera , no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
+El operador *head*, da nombre a la pestaña que queremos crear. De esta manera , no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
 
 ![Alt text](Head_HTML.PNG)
 
 Copie el texto de la imagen superior, guarde el fichero con la extensión .html y ejecutelo en el navegador. A partir de ahora usaremos Ctrl para guardar el documento y refrescaremos la página (tecla F5) del navegador para ver el resultado. Además puede emplear la tecla de windows en su teclado para establecer el navegador en el lado izquierdo de la pantalla (Windows + flecha izquierda) y notepad al lado derecho (Windows + flecha derecha).
 
 ### BODY
+El operador *body* da paso al cuerpo de la página web. Aquí escribiermos lo que deseamos que se vea en nuestra página.
 
-## Opciones más avanzadas:
+El operador *h* a su vez, indica título (headline) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido *h1* como título. Véase el ejemplo:
+
+![Alt text](Body_HTML.PNG)
+
+Por otro lado, el operador *p* se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando <p> y terminarlo </p>. Así el buscador representará los párrafos de manera automática.
+
+### Opciones más avanzadas:
 
 <table WIDTH="90%" UNITS="relative">
   <tr>
@@ -236,7 +243,7 @@ iframe {
 }
 </style>
 
-*Ejemplo cogido de: https://nicolasserrano.github.io/CS/HTML/
+*Ejemplo cogido de:* https://nicolasserrano.github.io/CS/HTML/
 
 http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/CursoHTML/Curso01.htm
 
