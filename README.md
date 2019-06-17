@@ -55,7 +55,7 @@ Para la creación de una página web, es imprescindibel el empleo de tablas como
   cellspacing=5
   cellpadding=5>
  
-<th>![alt text](tabla.PNG)
+<th> ![alt text](tabla.PNG)
 <th> <pre>
 <table border=2
   cellspacing=5
