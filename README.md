@@ -37,7 +37,9 @@ El operador *h* a su vez, indica título (headline) y va ordenado desde el 1 has
 
 ![Alt text](Body_HTML.PNG)
 
-Por otro lado, el operador *p* se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando <p> y terminarlo </p>. Así el buscador representará los párrafos de manera automática.
+Por otro lado, el operador *p* se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando *p* y terminarlo */p*. Así el buscador representará los párrafos de manera automática.
+
+![Alt text](Parrafo_HTML.PNG)
 
 ### Opciones más avanzadas:
 
