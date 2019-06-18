@@ -2,9 +2,9 @@
 
 ## Introducción
 
-HTML (HyperText Markup Language) es el primer lenguaje que una persona debe conocer si desea comenzar a realizar páginas web. HTML no es un lenguaje de programación, sino una lenguaje descriptivo, una serie de etiquetas que el navegador interpretará de una u otra forma para mostrar distintos contenidos por pantalla. 
+HTML (HyperText Markup Language) es el primer lenguaje que una persona debe conocer si desea comenzar a realizar páginas web. HTML no es un lenguaje de programación, sino un lenguaje descriptivo, una serie de etiquetas que el navegador interpretará de una u otra forma para mostrar distintos contenidos por pantalla. 
 
-Por tanto el HTML, es el lenguaje utilizado por el sevidor para definir las páginas del WORLD WIDE WEB. El ejemplo más claro lo encontramos precisamente en la primera página creada en la WWW: [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html). En está veremos como esta página web está compuesta por un simple fichero HTML que a día de hoy, nuestro navegador sigue siendo capaz de leer. 
+Por tanto el HTML, es el lenguaje utilizado por el servidor para definir las páginas del WORLD WIDE WEB. El ejemplo más claro lo encontramos precisamente en la primera página creada en la WWW: [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html). En está veremos cómo esta página web está compuesta por un simple fichero HTML que a día de hoy, nuestro navegador sigue siendo capaz de leer. 
 
 Los ficheros HTML son que pueden ser escritos con cualquier editor básico, tal como Notepad. En este fichero de texto se introducen unas marcas o caracteres de control llamadas TAGs, que son interpretadas por el navegador. Cuando éste lee un fichero con extensión *.htm o *.html interpreta estas TAGs y formatea el texto de acuerdo con ellas.
 
@@ -12,28 +12,28 @@ En conclusión, HTML es el lenguaje que nos sirve para crear páginas sencillas 
 
 ## Notepad
 
-Para esta práctica usaremos el programa Notepad++ y guardaremos el archivo con la extensión .html.después, clicaremos la opción de run en la barra de herramientas y seleccionaremos el navegador que deseemos, por ejemplo: "Google Chrome".
+Para esta práctica usaremos el programa Notepad++ y guardaremos el archivo con la extensión .html. Después, clicaremos la opción de run en la barra de herramientas y seleccionaremos el navegador que deseemos, por ejemplo: "Google Chrome".
 
-Si no posee este programa, puede emplear al Notepad  tradicional gurdar el archivo como html y ejecutarlo en el navegador que prefiera.
+Si no posee este programa, puede emplear al Notepad  tradicional guardar el archivo como html y ejecutarlo en el navegador que prefiera.
 
 ![alt text](NotePad.PNG)
 
 ## TAGs básicos
 Una vez abierto el Notepad, recrearemos la [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html) e iremos viendo paso por paso que indica cada comando del HTML.
 
-Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. Esto significa que existe una gerarquía dentro de los TAGS. Cada tag empieza cuando el usuario escribe <> y termina al poner </>.
+Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. Esto significa que existe una jerarquía dentro de los TAGS. Cada tag empieza cuando el usuario escribe <> y termina al poner </>.
 
 ### HEAD
-El operador *head*, da nombre a la pestaña que queremos crear. De esta manera , no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
+El operador *head*, da nombre a la pestaña que queremos crear. De esta manera, no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
 
 ![Alt text](Head_HTML.PNG)
 
-Copie el texto de la imagen superior, guarde el fichero con la extensión .html y ejecutelo en el navegador. A partir de ahora usaremos Ctrl para guardar el documento y refrescaremos la página (tecla F5) del navegador para ver el resultado. Además puede emplear la tecla de windows en su teclado para establecer el navegador en el lado izquierdo de la pantalla (Windows + flecha izquierda) y notepad al lado derecho (Windows + flecha derecha).
+Copie el texto de la imagen superior, guarde el fichero con la extensión .html y ejecútelo en el navegador. A partir de ahora usaremos Ctrl para guardar el documento y refrescaremos la página (tecla F5) del navegador para ver el resultado. Además puede emplear la tecla de Windows en su teclado para establecer el navegador en el lado izquierdo de la pantalla (Windows + flecha izquierda) y Notepad al lado derecho (Windows + flecha derecha).
 
 ### BODY
-El operador *body* da paso al cuerpo de la página web. Aquí escribiermos lo que deseamos que se vea en nuestra página.
+El operador *body* da paso al cuerpo de la página web. Aquí escribiremos lo que deseamos que se vea en nuestra página.
 
-El operador *h* a su vez, indica título (headline) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido *h1* como título. Véase el ejemplo:
+El operador *h* a su vez, indica título (*headline*) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido *h1* como título. Véase el ejemplo:
 
 ![Alt text](Body_HTML.PNG)
 
@@ -41,14 +41,14 @@ Por otro lado, el operador *p* se emplea para definir un párrafo. Cuando queram
 
 ![Alt text](Parrafo_HTML.PNG)
 
-Para incluir referencias a links crearemos un tag de la siguient forma:
+Para incluir referencias a links crearemos un tag de la siguiente forma:
 
 ![Alt text](Links.PNG)
 
 El alumno terminará la página por su cuenta ahora.
 
 ### Tablas
-Para la creación de una página web, es imprescindibel el empleo de tablas como veremos más adelante. Para crear una tabla el alumno copiará el sugiente código:
+Para la creación de una página web, es imprescindible el empleo de tablas como veremos más adelante. Para crear una tabla el alumno copiará el siguiente código:
 
 ![alt text](tabla.PNG) 
 
