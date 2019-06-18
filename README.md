@@ -287,16 +287,8 @@ iframe {
 
 *Ejemplo cogido de:* https://nicolasserrano.github.io/CS/HTML/
 
-http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/CursoHTML/Curso01.htm
+## Enlaces a más ejemplos: CHEATSHEETS
 
-http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/HTML4.0/intro/intro.html
-
-https://tecnunhal.github.io/
-
-https://github.com/nicolasserrano/digital/blob/master/AI.md
-
-https://nicolasserrano.github.io/CS/
-
-https://nicolasserrano.github.io/
-
-https://nicolasserrano.github.io/CS/CSS/CSS.pdf
++ [Link 1: HTML in SEIA course](http://philip.greenspun.com/seia/html)
++ [Link 2: Presentación HTML](http://www4.tecnun.es/asignaturas/Informat3/Material/Clase01.ppt)
++ [Lin 3: Curso HTML Tecnun](http://www4.tecnun.es/asignaturas/Informat1/Ayudainf/CursoHTML/Curso01.htm)
